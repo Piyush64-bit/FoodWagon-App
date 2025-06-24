@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+
 # 🍔 Foodwagon – The Best Food Delivery in Jaipur 🚀
 
 Welcome to **Foodwagon**, your one-stop solution for ordering delicious food from the best restaurants in Jaipur! Whether you're craving spicy street food, gourmet meals, or sweet desserts, Foodwagon delivers it all—fast, fresh, and right to your doorstep. 
